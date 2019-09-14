@@ -6,6 +6,8 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 **Take a picture of your soldered panel and add it here!**
 
+![Soldered Panel Image](https://github.com/byellin/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Part%20A%20Image.JPG)
+
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
