@@ -12,19 +12,29 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **a. What voltage level do you need to power your display?**
 
+ The voltage needs to be at 80% in order for words to be displayed. 
+
 **b. What voltage level do you need to power the display backlight?**
-   
+
+The display is powered over the entire range of voltages that the potentiometer allows. 
+
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
+
+The first time I soldered the pins on the LED display some of the pins ended up connected to each other. I fixed this by resoldering the pins and making sure that they were separated from each other. 
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
  
+ The line that we have to change to make it flash my name is "lcd.print("hello, world!");."
+ 
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
+See folder with lab.
 
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
 
+![Rotary Encoder Video](https://github.com/byellin/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Rotary%20Encoder%20Video.MOV)
 
 ## Part D. Make your Arduino sing!
 
