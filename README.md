@@ -39,9 +39,12 @@ See folder with lab.
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
+To make the song play twice as fast, I doubled all of the values in noteDurations. 
  
 **b. What song is playing?**
 
+Shave and a Haircut Two Bits
 
 ## Part E. Make your own timer
 
