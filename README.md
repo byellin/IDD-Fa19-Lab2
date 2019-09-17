@@ -50,4 +50,6 @@ Shave and a Haircut Two Bits
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+![Timer Video](https://github.com/byellin/Developing-and-Designing-Interactive-Devices)
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
