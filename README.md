@@ -28,7 +28,7 @@ The first time I soldered the pins on the LED display some of the pins ended up 
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
-![Multimeter Code] (https://github.com/byellin/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Multimeter.ino)
+![Multimeter Code](https://github.com/byellin/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Multimeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
